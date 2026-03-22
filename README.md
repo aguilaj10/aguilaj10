@@ -15,19 +15,15 @@
 &nbsp;&nbsp;
 <sub>B.S. Computer Engineering · Universidad Autónoma de Tlaxcala</sub>
 
-<br/><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<br/><br/><br/>
 
 ### Experience
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="22" alt="IBM"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/General_Motors_logo.png" height="30" alt="GM"/> | ![Ibotta](https://img.shields.io/badge/Ibotta-CC0000?style=for-the-badge&logoColor=white) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="22" alt="IBM"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/General_Motors_logo.png/240px-General_Motors_logo.png" height="28" alt="GM"/> | ![Ibotta](https://img.shields.io/badge/Ibotta-CC0000?style=for-the-badge&logoColor=white) |
 |:---:|:---:|:---:|
 | <sub>Mexico City · 2011–2016</sub> | <sub>Detroit, MI · 2016–2019</sub> | <sub>Denver, CO · 2019–present</sub> |
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<br/><br/>
 
 ### Stack
 
@@ -35,14 +31,12 @@
 
 <sub>KMP &nbsp;·&nbsp; Compose Multiplatform &nbsp;·&nbsp; Ktor &nbsp;·&nbsp; Jetpack &nbsp;·&nbsp; Room &nbsp;·&nbsp; SQLDelight &nbsp;·&nbsp; Koin &nbsp;·&nbsp; Hilt</sub>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-<br/>
+<br/><br/><br/>
 
 ❤️ &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a3/Club_Am%C3%A9rica_crest.svg" height="46" alt="Club América"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg" height="46" alt="Denver Broncos"/>
+<img src="https://www.clipartmax.com/png/small/294-2941671_america-logo-club-am-rica-eps-file-png-svg-download-club-america.png" alt="Club América">
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg" height="38" alt="Denver Broncos"/>
 
 <br/>
 
