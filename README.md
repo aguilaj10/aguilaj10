@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=I+speak+Kotlin+fluently;I+think+in+multiplatform;I+ship+apps+that+run+everywhere" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=I+speak+Java & Kotlin+fluently;I+think+in+multiplatform;I+ship+apps+that+run+everywhere" alt="Typing SVG" />
 
 <br/>
 
@@ -12,10 +12,10 @@
 <br/>
 
 <img src="https://uatx.mx/assets/img/Rectoria_2019.jpg" height="36" alt="UAT"/>
-&nbsp;&nbsp;
-<sub>B.S. Computer Engineering · Universidad Autónoma de Tlaxcala</sub>
 
-<br/><br/><br/>
+#### B.S. Computer Engineering · Universidad Autónoma de Tlaxcala</sub>
+
+<br/>
 
 ### Experience
 
@@ -27,7 +27,7 @@
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,typescript,postgres,sqlite,docker,supabase,firebase,gradle,github&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,typescript,js,ktor,postgres,sqlite,oracle,docker,supabase,firebase,gradle,github,netlify,ai&theme=dark)](https://skillicons.dev)
 
 <sub>KMP &nbsp;·&nbsp; Compose Multiplatform &nbsp;·&nbsp; Ktor &nbsp;·&nbsp; Jetpack &nbsp;·&nbsp; Room &nbsp;·&nbsp; SQLDelight &nbsp;·&nbsp; Koin &nbsp;·&nbsp; Hilt</sub>
 
