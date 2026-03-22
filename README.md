@@ -19,7 +19,7 @@
 
 ### Experience
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="22" alt="IBM"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/General_Motors_logo.png/240px-General_Motors_logo.png" height="28" alt="GM"/> | ![Ibotta](https://img.shields.io/badge/Ibotta-CC0000?style=for-the-badge&logoColor=white) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="22" alt="IBM"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/General_Motors_logo.svg/3840px-General_Motors_logo.svg.png" height="28" alt="GM"/> | ![Ibotta](https://img.shields.io/badge/Ibotta-CC0000?style=for-the-badge&logoColor=white) |
 |:---:|:---:|:---:|
 | <sub>Mexico City · 2011–2016</sub> | <sub>Detroit, MI · 2016–2019</sub> | <sub>Denver, CO · 2019–present</sub> |
 
@@ -34,7 +34,7 @@
 <br/><br/><br/>
 
 ❤️ &nbsp;&nbsp;
-<img src="https://www.clipartmax.com/png/small/294-2941671_america-logo-club-am-rica-eps-file-png-svg-download-club-america.png" alt="Club América">
+<img src="https://statics-maker.llt-services.com/amx/images/2025/04/01/xsmall-wp/0b6faad3-4d71-49dc-827a-9c2aff74d13b-814.webp" alt="Club América" width="28">
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg" height="38" alt="Denver Broncos"/>
 
