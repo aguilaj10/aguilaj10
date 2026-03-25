@@ -27,17 +27,18 @@
 
 ### Stack
 
-[![Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,typescript,js,ktor,postgres,sqlite,oracle,docker,supabase,firebase,gradle,github,netlify,ai&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,typescript,js,ktor&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,sqlite,docker,supabase,firebase,gradle,github,netlify,ai&theme=dark)](https://skillicons.dev)
 
 <sub>KMP &nbsp;·&nbsp; Compose Multiplatform &nbsp;·&nbsp; Ktor &nbsp;·&nbsp; Jetpack &nbsp;·&nbsp; Room &nbsp;·&nbsp; SQLDelight &nbsp;·&nbsp; Koin &nbsp;·&nbsp; Hilt</sub>
 
-<br/><br/><br/>
+<br/>
 
 ❤️ &nbsp;&nbsp;
-<img src="https://statics-maker.llt-services.com/amx/images/2025/04/01/xsmall-wp/0b6faad3-4d71-49dc-827a-9c2aff74d13b-814.webp" alt="Club América" width="28">
+<img src="https://statics-maker.llt-services.com/amx/images/2025/04/01/xsmall-wp/0b6faad3-4d71-49dc-827a-9c2aff74d13b-814.webp" alt="Club América" width="38">
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg" height="38" alt="Denver Broncos"/>
-
+&nbsp;&nbsp; ❤️
 <br/>
 
 </div>
